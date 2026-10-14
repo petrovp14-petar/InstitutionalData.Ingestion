@@ -1,0 +1,35 @@
+## User-specific configurations
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+## Build results (Compilation Output)
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+x64/
+x86/
+bld/
+[Bb]in/
+[Oo]bj/
+
+## Visual Studio Cache and Working Directories
+.vs/
+.Explorers/
+_ReSharper*/
+*.[Cc]runch*.txt
+*.vshost.exe*
+*.swp
+*~
+
+## Rider / JetBrains / VS Code Cache Directories
+.idea/
+.vscode/
+
+## OS-generated files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+.DS_Store

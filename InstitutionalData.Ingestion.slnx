@@ -1,0 +1,12 @@
+<Solution>
+  <Folder Name="/Solution Items/">
+    <File Path=".gitignore" />
+    <File Path="README.md" />
+  </Folder>
+  <Folder Name="/src/">
+    <Project Path="InstitutionalData.Ingestion/InstitutionalData.Ingestion.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="InstitutionalData.Ingestion.Tests/InstitutionalData.Ingestion.Tests.csproj" />
+  </Folder>
+</Solution>
